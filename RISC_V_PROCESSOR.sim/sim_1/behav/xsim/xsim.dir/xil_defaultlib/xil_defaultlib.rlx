@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sim_1/new/tb_riscv.v,1770557319,verilog,,,,tb_riscv,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/ALU.v,1770386895,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Control_unit.v,,ALU,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Control_unit.v,1770554839,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Data_mem.v,,Control_unit,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Data_mem.v,1770422952,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Imm_gen.v,,Data_mem,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Imm_gen.v,1770478835,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Instr_mem.v,,Imm_gen,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Instr_mem.v,1770555159,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/PC.v,,Instr_mem,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/PC.v,1770384028,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Register_file.v,,PC,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/Register_file.v,1770554148,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/load_unit.v,,Register_file,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/load_unit.v,1770419887,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/store_unit.v,,load_unit,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/store_unit.v,1770549213,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/top.v,,store_unit,,,,,,,,
+C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sources_1/new/top.v,1770551324,verilog,,C:/Users/krush/OneDrive/Desktop/RISC_V_PROCESSOR/RISC_V_PROCESSOR.srcs/sim_1/new/tb_riscv.v,,top,,,,,,,,
