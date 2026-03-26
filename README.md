@@ -138,7 +138,7 @@ This project is open-source and currently does not have an explicit license file
 ## 📞 Support & Contact
 
 -   🐛 Issues: [GitHub Issues](https://github.com/KrushnSurlakar/Single-Cycle-Risk-V-Processor/issues)
--   📧 Email: [surlakarkrushn@gmail.com](mailto:surlakarkrushn@gmail.com) <!-- TODO: Verify or update author's contact email if different -->
+-   📧 Email: [krushnsurlakar@gmail.com](mailto:krushnsurlakar@gmail.com) <!-- TODO: Verify or update author's contact email if different -->
 
 ---
 
