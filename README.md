@@ -126,9 +126,7 @@ Please ensure your contributions adhere to Verilog coding best practices and are
 
 ## 📄 License
 
-This project is open-source and currently does not have an explicit license file. Please contact the author for licensing details.
-<!-- TODO: Add specific license (e.g., MIT, Apache 2.0) and include a LICENSE file. -->
-
+This project is open-source and currently does not have an explicit license file. 
 ## 🙏 Acknowledgments
 
 -   The RISC-V Foundation for providing an open and extensible ISA.
